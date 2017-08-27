@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/putuguna/AndroidStudioProjects/PasswordVisibility/app/build/intermediates/exploded-aar/com.android.support/design/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/home/putuguna/AndroidStudioProjects/PasswordVisibility/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-25.3.1_9aa4b8a08a4a14134fd2393b2aa1c20964f2fb35/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/putuguna/AndroidStudioProjects/PasswordVisibility/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/home/putuguna/AndroidStudioProjects/PasswordVisibility/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.3.1_52656417b3c5b7e8ea0b8bfc4b463440c601e5ed/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/putuguna/AndroidStudioProjects/PasswordVisibility/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/home/putuguna/AndroidStudioProjects/PasswordVisibility/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.3.1_13742d9e041f1ba89bf1555fd868600f74b40146/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/putuguna/AndroidStudioProjects/PasswordVisibility/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/home/putuguna/AndroidStudioProjects/PasswordVisibility/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.3.1_4106874bff3be470d85993203eac2ecd443f3664/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/putuguna/AndroidStudioProjects/PasswordVisibility/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/home/putuguna/AndroidStudioProjects/PasswordVisibility/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-25.3.1_b7af9da0ac7f33f9b9fdb00c6d2c8f6518a9e0be/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/putuguna/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/home/putuguna/AndroidStudioProjects/PasswordVisibility/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_a4c7739eb2ca02c869045586d6f9c659c0867309/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/putuguna/AndroidStudioProjects/PasswordVisibility/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/home/putuguna/AndroidStudioProjects/PasswordVisibility/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.3.1_603fd50cea5d24eb5281ecbd1981d51f9a75184c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/putuguna/AndroidStudioProjects/PasswordVisibility/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/home/putuguna/AndroidStudioProjects/PasswordVisibility/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.3.1_d9ea7ceaa5366582876ee303d1800176ff490752/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/putuguna/AndroidStudioProjects/PasswordVisibility/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="0ab36a02cb492447087f2ab2af8facc4ca0f15a3">
+        <dex dex="/home/putuguna/AndroidStudioProjects/PasswordVisibility/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_de9c2f5057c0f1a3afb11177777c33cbc41e65f7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/putuguna/AndroidStudioProjects/PasswordVisibility/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/home/putuguna/AndroidStudioProjects/PasswordVisibility/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.3.1_48b57f220d307d8a626a801c6d887bd9c53bc019/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/putuguna/AndroidStudioProjects/PasswordVisibility/app/build/intermediates/exploded-aar/com.android.support/transition/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/home/putuguna/AndroidStudioProjects/PasswordVisibility/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-transition-25.3.1_7bac0345c6ce243ba27003e2a08f0787102d7069/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/putuguna/AndroidStudioProjects/PasswordVisibility/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/home/putuguna/AndroidStudioProjects/PasswordVisibility/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.3.1_85937b3214f8cfbda9dbe159611bf54119d304e5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/putuguna/AndroidStudioProjects/PasswordVisibility/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/home/putuguna/AndroidStudioProjects/PasswordVisibility/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.3.1_a717b260df0e602b65b82def2e027daaca08e53d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/putuguna/AndroidStudioProjects/PasswordVisibility/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/putuguna/AndroidStudioProjects/PasswordVisibility/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.3.1_5e6534d3b7be9658ad7b632478da65a3f884dbfc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/putuguna/AndroidStudioProjects/PasswordVisibility/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2a83979857047788cbedac8a582a8494a1bd7a21">
+        <dex dex="/home/putuguna/AndroidStudioProjects/PasswordVisibility/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_0e401c12041ac0700c8765f8b39b3e978cfb5f18/classes.dex" />
+    </item>
+
+</items>
